@@ -1,0 +1,37 @@
+{
+  "name": "boom-to-json-api",
+  "version": "1.0.0",
+  "description": "Formats a Boom error according to the JSON API spec",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "jshint .",
+    "posttest": "npm run lint"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinjmurphy/boom-to-json-api.git"
+  },
+  "keywords": [
+    "boom",
+    "to",
+    "json",
+    "api",
+    "format"
+  ],
+  "author": "robin@robinmurphy.co.uk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinjmurphy/boom-to-json-api/issues"
+  },
+  "homepage": "https://github.com/robinjmurphy/boom-to-json-api#readme",
+  "devDependencies": {
+    "jshint": "^2.9.1-rc2"
+  },
+  "dependencies": {
+    "boom": "^3.1.1"
+  }
+}
