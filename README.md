@@ -1,5 +1,7 @@
 # boom-to-json-api
 
+[![Build Status](https://travis-ci.org/robinjmurphy/boom-to-json-api.svg)](https://travis-ci.org/robinjmurphy/boom-to-json-api)
+
 > Formats a [Boom](https://github.com/hapijs/boom) error according to the [JSON API spec](http://jsonapi.org/format/#errors)
 
 ## Installation
