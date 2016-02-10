@@ -23,7 +23,7 @@ console.log(body);
 // {
 //   errors: [
 //     {
-//       status: '403',
+//       status: '404',
 //       title: 'Not Found',
 //       detail: 'Sorry, nothing to see here!'
 //     }
